@@ -1,4 +1,3 @@
-# MBCD
 # Microcontroller-based chemical diagnostics
 
 ## The exercises can be found here:
